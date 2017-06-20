@@ -1,24 +1,26 @@
 
-// discovers Wem Insight switches, listens to power information, writes data to local file AND/OR Google spreadsheet
-// node insight.js [--google] [--nolocal]
+// discovers Wemo Insight switches, listens to power information, writes data to local file AND/OR Google spreadsheet
+// command: node insight.js [--google] [--nolocal]
 // --google: write data to a Google Spreadsheet (Experimental...)
 // --nolocal: don't write data to a local file (one per hour)
 
 
 var Wemo = require('wemo-client');
 var util = require('util');
+//npm install command-line-args
 const commandLineArgs = require('command-line-args');
 const optionDefinitions = [
   { name: 'google', alias: 'g', type: Boolean },
   { name: 'nolocal', alias: 'n', type: Boolean}
 ];
 const options = commandLineArgs(optionDefinitions);
-//allows to write to am existing Google Spreadsheet. It is still buggy in the edge cases though...
+const WRITE_LOCAL= !options["nolocal"];
+
+//allows to write to an existing Google Spreadsheet. It is still buggy in the edge cases though...
 //requires to install the following:
 //npm install googleapis --save
 //npm install google-auth-library --save
 const WRITE_TO_GOOGLE=options["google"];
-const WRITE_LOCAL= !options["nolocal"];
 
 var wemo = new Wemo();
 
