@@ -1,11 +1,25 @@
+
+// discovers Wem Insight switches, listens to power information, writes data to local file AND/OR Google spreadsheet
+// node insight.js [--google] [--nolocal]
+// --google: write data to a Google Spreadsheet (Experimental...)
+// --nolocal: don't write data to a local file (one per hour)
+
+
+var Wemo = require('wemo-client');
+var util = require('util');
+const commandLineArgs = require('command-line-args');
+const optionDefinitions = [
+  { name: 'google', alias: 'g', type: Boolean },
+  { name: 'nolocal', alias: 'n', type: Boolean}
+];
+const options = commandLineArgs(optionDefinitions);
 //allows to write to am existing Google Spreadsheet. It is still buggy in the edge cases though...
 //requires to install the following:
 //npm install googleapis --save
 //npm install google-auth-library --save
-const WRITE_TO_GOOGLE=false; 
+const WRITE_TO_GOOGLE=options["google"];
+const WRITE_LOCAL= !options["nolocal"];
 
-var Wemo = require('wemo-client');
-var util = require('util');
 var wemo = new Wemo();
 
 
@@ -19,16 +33,15 @@ var queue=[];
 
 function printPower(UDN,friendlyName,binaryState, instantPower, data){
   var ts=new Date().toISOString();
-  var row=[ts, UDN, friendlyName, binaryState, instantPower,JSON.stringify(data)];
-  
+
   //log on the console stdout
   console.log("%s %s,%s,%s,%s,%j",ts,UDN,friendlyName,binaryState,instantPower,data);
 
   //cache new entry for google drive
-  if (WRITE_TO_GOOGLE) queue.push(row);
+  if (WRITE_TO_GOOGLE) queue.push([ts,friendlyName,instantPower]);
 
   //write locally
-  writeToFile(ts,UDN,friendlyName,binaryState,instantPower,data);
+  if (WRITE_LOCAL) writeToFile(ts,UDN,friendlyName,binaryState,instantPower,data);
 }
 
 function triggerDiscovery(oauth2Client){
@@ -130,8 +143,8 @@ function getNewToken(oauth2Client, callback) {
 
 
 //write all the rows in the given array
-function writeToDrive(oauth2Client,rows){
-  var data=rows;
+function writeToDrive(oauth2Client){
+  var data=queue;
   //SPREADSHEET: 1lUstzodzzziKhnLtvcnRhBhKO0sDKOr3yObSDPLplsI
   var sheets = google.sheets('v4');
   var request = {
@@ -141,7 +154,7 @@ function writeToDrive(oauth2Client,rows){
     valueInputOption: 'USER_ENTERED',
     insertDataOption: 'INSERT_ROWS',
     resource:{
-      "values": rows
+      "values": data
     },
     auth: oauth2Client
   };
@@ -155,12 +168,14 @@ function writeToDrive(oauth2Client,rows){
   //   }
   // );
 
+  console.log("%s Writing %s rows to Google drives",new Date().toISOString(),data.length);
   sheets.spreadsheets.values.append(request, function(err, response) {
       if (err) {
         console.error(err);
         return;
       }
-      rows=rows.slice(data.length,rows.length);
+      queue=queue.slice(data.length,queue.length);
+      console.log("%s remaining rows in the queue:%s",new Date().toISOString(),queue.length);
     }
   );
 }
@@ -169,7 +184,7 @@ function writeToDrive(oauth2Client,rows){
 function batchWriteToDrive(oauth2Client){
   //Google Sheet API Quota: 100req/100s per user.
   if (queue.length > 0){
-    writeToDrive(oauth2Client,queue);
+    writeToDrive(oauth2Client);
   }
   setTimeout(function(){
     batchWriteToDrive(oauth2Client)
