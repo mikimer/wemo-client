@@ -1,3 +1,16 @@
+# About this repo
+
+This repo is great if you're trying to gather data from a Belkin Wemo Insight smart plug.  
+
+**The details**  
+- The [Wemo® Insight Smart Plug](http://www.belkin.com/us/p/P-F7C029/) is an internet-of-things (IoT) device that connects to an electric outlet to monitor and control electric power. 
+- [Mimizone](https://github.com/mimizone/wemo-client) used the Belkin Wemo repo to create `insight.js` as a JavaScript file that gathers and logs data from the smart plugs.
+- [Mikimer]() simplified Mimizone's project into `simple_belkin_wemo_insight_checker.js`. I hope it's helpful to you!  
+
+![image of smart plug](cq5dam.web.372.372.jpeg)
+
+  
+Here's the original README file:
 # Wemo Client for Node.js
 
 Low-level client library for controlling recent Wemo devices including Bulbs. Supports event subscriptions to get live updates from devices.
