@@ -1,0 +1,232 @@
+2017-09-14T19:00:00.096Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2740,{"ONSince":"1505332673","OnFor":"82925","TodayONTime":"43198","TodayConsumed":"73291906"}
+2017-09-14T19:00:01.569Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:01.579Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16633281"}
+2017-09-14T19:00:01.590Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:02.270Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:02.951Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2725,{"ONSince":"1505332673","OnFor":"82928","TodayONTime":"43201","TodayConsumed":"73291906"}
+2017-09-14T19:00:02.952Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:03.317Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4065,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16633281"}
+2017-09-14T19:00:04.245Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82929","TodayONTime":"43202","TodayConsumed":"73291906"}
+2017-09-14T19:00:04.781Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:05.749Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:05.807Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4010,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:06.589Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:06.599Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82932","TodayONTime":"43205","TodayConsumed":"73291906"}
+2017-09-14T19:00:06.746Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:07.391Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,3995,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:08.930Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82933","TodayONTime":"43206","TodayConsumed":"73291906"}
+2017-09-14T19:00:08.941Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:09.278Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:11.323Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:11.325Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:11.334Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4035,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:11.344Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82936","TodayONTime":"43209","TodayConsumed":"73291906"}
+2017-09-14T19:00:11.351Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:12.277Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2715,{"ONSince":"1505332673","OnFor":"82937","TodayONTime":"43210","TodayConsumed":"73291906"}
+2017-09-14T19:00:12.836Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:12.837Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:14.220Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:14.325Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:14.963Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:14.964Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82940","TodayONTime":"43213","TodayConsumed":"73291906"}
+2017-09-14T19:00:15.754Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:16.138Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2730,{"ONSince":"1505332673","OnFor":"82941","TodayONTime":"43214","TodayConsumed":"73291906"}
+2017-09-14T19:00:17.282Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:17.283Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:17.303Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:19.292Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:19.302Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:19.303Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2755,{"ONSince":"1505332673","OnFor":"82944","TodayONTime":"43217","TodayConsumed":"73291906"}
+2017-09-14T19:00:19.387Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:21.370Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2750,{"ONSince":"1505332673","OnFor":"82945","TodayONTime":"43218","TodayConsumed":"73291906"}
+2017-09-14T19:00:21.371Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:21.372Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:21.391Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:22.363Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:22.679Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2740,{"ONSince":"1505332673","OnFor":"82948","TodayONTime":"43221","TodayConsumed":"73294640"}
+2017-09-14T19:00:22.900Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:24.320Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:24.340Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82949","TodayONTime":"43222","TodayConsumed":"73294640"}
+2017-09-14T19:00:25.744Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:25.775Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4025,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:25.780Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:26.381Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:26.720Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2755,{"ONSince":"1505332673","OnFor":"82952","TodayONTime":"43225","TodayConsumed":"73294640"}
+2017-09-14T19:00:26.845Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:27.405Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:29.241Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:29.241Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2740,{"ONSince":"1505332673","OnFor":"82953","TodayONTime":"43226","TodayConsumed":"73294640"}
+2017-09-14T19:00:29.242Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4050,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:29.377Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:31.286Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:31.288Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82956","TodayONTime":"43229","TodayConsumed":"73294640"}
+2017-09-14T19:00:31.296Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:31.422Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4015,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:32.344Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82957","TodayONTime":"43230","TodayConsumed":"73294640"}
+2017-09-14T19:00:33.469Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:33.470Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:33.471Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4010,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:34.451Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:35.467Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2760,{"ONSince":"1505332673","OnFor":"82960","TodayONTime":"43233","TodayConsumed":"73294640"}
+2017-09-14T19:00:35.468Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:35.509Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:36.492Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2780,{"ONSince":"1505332673","OnFor":"82961","TodayONTime":"43234","TodayConsumed":"73294640"}
+2017-09-14T19:00:36.932Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:36.953Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:37.395Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:38.444Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:39.188Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2755,{"ONSince":"1505332673","OnFor":"82964","TodayONTime":"43237","TodayConsumed":"73294640"}
+2017-09-14T19:00:39.189Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:39.452Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:41.319Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:41.329Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"82965","TodayONTime":"43238","TodayConsumed":"73294640"}
+2017-09-14T19:00:41.330Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:41.413Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:42.486Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:43.059Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82968","TodayONTime":"43241","TodayConsumed":"73294640"}
+2017-09-14T19:00:43.069Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:44.406Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4035,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:44.416Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2750,{"ONSince":"1505332673","OnFor":"82969","TodayONTime":"43242","TodayConsumed":"73294640"}
+2017-09-14T19:00:44.448Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:45.765Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4015,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:46.007Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:46.781Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2765,{"ONSince":"1505332673","OnFor":"82972","TodayONTime":"43245","TodayConsumed":"73294640"}
+2017-09-14T19:00:46.950Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:47.470Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:47.501Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4035,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:49.090Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"82973","TodayONTime":"43246","TodayConsumed":"73294640"}
+2017-09-14T19:00:49.100Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:49.449Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:50.402Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:51.703Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2765,{"ONSince":"1505332673","OnFor":"82976","TodayONTime":"43249","TodayConsumed":"73294640"}
+2017-09-14T19:00:51.757Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:51.799Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:51.977Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:53.318Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:53.319Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2765,{"ONSince":"1505332673","OnFor":"82978","TodayONTime":"43251","TodayConsumed":"73294640"}
+2017-09-14T19:00:53.518Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:54.458Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:55.680Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:55.690Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4055,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:55.990Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2790,{"ONSince":"1505332673","OnFor":"82981","TodayONTime":"43254","TodayConsumed":"73294640"}
+2017-09-14T19:00:56.143Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:57.170Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:00:57.348Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2775,{"ONSince":"1505332673","OnFor":"82982","TodayONTime":"43255","TodayConsumed":"73294640"}
+2017-09-14T19:00:57.673Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:00:58.405Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:00:59.663Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:00.082Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2730,{"ONSince":"1505332673","OnFor":"82985","TodayONTime":"43258","TodayConsumed":"73294640"}
+2017-09-14T19:01:00.104Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:00.753Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:01:01.379Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82986","TodayONTime":"43259","TodayConsumed":"73294640"}
+2017-09-14T19:01:01.558Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:02.238Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:02.259Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:01:03.983Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:03.985Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"82989","TodayONTime":"43262","TodayConsumed":"73294640"}
+2017-09-14T19:01:04.045Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:04.617Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16637324"}
+2017-09-14T19:01:05.467Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2730,{"ONSince":"1505332673","OnFor":"82990","TodayONTime":"43263","TodayConsumed":"73294640"}
+2017-09-14T19:01:05.541Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:06.087Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:06.109Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4055,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:07.620Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:07.881Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2720,{"ONSince":"1505332673","OnFor":"82993","TodayONTime":"43266","TodayConsumed":"73294640"}
+2017-09-14T19:01:08.049Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:08.601Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4050,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:09.391Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2740,{"ONSince":"1505332673","OnFor":"82994","TodayONTime":"43267","TodayConsumed":"73294640"}
+2017-09-14T19:01:09.570Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:10.280Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:10.281Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:11.613Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:11.920Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"82997","TodayONTime":"43270","TodayConsumed":"73294640"}
+2017-09-14T19:01:12.078Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:12.636Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:13.526Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2725,{"ONSince":"1505332673","OnFor":"82998","TodayONTime":"43271","TodayConsumed":"73294640"}
+2017-09-14T19:01:13.588Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:14.563Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4025,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:14.574Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:15.801Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:15.961Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2730,{"ONSince":"1505332673","OnFor":"83001","TodayONTime":"43274","TodayConsumed":"73294640"}
+2017-09-14T19:01:16.087Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:16.643Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:17.445Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2740,{"ONSince":"1505332673","OnFor":"83002","TodayONTime":"43275","TodayConsumed":"73294640"}
+2017-09-14T19:01:17.613Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:19.302Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:19.303Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4015,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:19.628Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:21.369Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4025,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:21.379Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:21.390Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2750,{"ONSince":"1505332673","OnFor":"83005","TodayONTime":"43278","TodayConsumed":"73294640"}
+2017-09-14T19:01:21.453Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2750,{"ONSince":"1505332673","OnFor":"83006","TodayONTime":"43279","TodayConsumed":"73294640"}
+2017-09-14T19:01:21.621Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:22.607Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:22.626Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:23.647Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:23.973Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"83009","TodayONTime":"43282","TodayConsumed":"73297384"}
+2017-09-14T19:01:24.133Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:24.730Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4020,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:25.768Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:25.769Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"83010","TodayONTime":"43283","TodayConsumed":"73297384"}
+2017-09-14T19:01:26.815Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:26.816Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:27.744Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:28.026Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2750,{"ONSince":"1505332673","OnFor":"83013","TodayONTime":"43286","TodayConsumed":"73297384"}
+2017-09-14T19:01:28.204Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:29.203Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:29.234Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4055,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:29.613Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2730,{"ONSince":"1505332673","OnFor":"83014","TodayONTime":"43287","TodayConsumed":"73297384"}
+2017-09-14T19:01:31.824Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4055,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:31.834Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:31.835Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:31.845Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:32.056Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2760,{"ONSince":"1505332673","OnFor":"83017","TodayONTime":"43290","TodayConsumed":"73297384"}
+2017-09-14T19:01:32.681Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:32.765Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4035,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:33.544Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2755,{"ONSince":"1505332673","OnFor":"83018","TodayONTime":"43291","TodayConsumed":"73297384"}
+2017-09-14T19:01:34.199Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:34.230Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:34.757Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:35.770Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:36.062Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2760,{"ONSince":"1505332673","OnFor":"83021","TodayONTime":"43294","TodayConsumed":"73297384"}
+2017-09-14T19:01:36.845Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4025,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:36.856Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:37.620Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2780,{"ONSince":"1505332673","OnFor":"83022","TodayONTime":"43295","TodayConsumed":"73297384"}
+2017-09-14T19:01:37.630Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:38.453Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:38.809Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:39.210Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:41.398Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2775,{"ONSince":"1505332673","OnFor":"83025","TodayONTime":"43298","TodayConsumed":"73297384"}
+2017-09-14T19:01:41.399Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:41.400Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:41.440Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4065,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:41.639Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2775,{"ONSince":"1505332673","OnFor":"83026","TodayONTime":"43299","TodayConsumed":"73297384"}
+2017-09-14T19:01:42.277Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4040,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:42.767Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:43.253Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:44.715Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2780,{"ONSince":"1505332673","OnFor":"83029","TodayONTime":"43302","TodayConsumed":"73297384"}
+2017-09-14T19:01:44.779Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:44.841Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:45.322Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:45.822Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2760,{"ONSince":"1505332673","OnFor":"83030","TodayONTime":"43303","TodayConsumed":"73297384"}
+2017-09-14T19:01:46.870Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:46.891Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:47.249Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:48.349Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2745,{"ONSince":"1505332673","OnFor":"83033","TodayONTime":"43306","TodayConsumed":"73297384"}
+2017-09-14T19:01:48.822Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4030,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:48.823Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:49.314Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:49.712Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2725,{"ONSince":"1505332673","OnFor":"83034","TodayONTime":"43307","TodayConsumed":"73297384"}
+2017-09-14T19:01:50.353Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4025,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:01:51.190Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:01:51.306Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:52.111Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2760,{"ONSince":"1505332673","OnFor":"83037","TodayONTime":"43310","TodayConsumed":"73297384"}
+2017-09-14T19:01:52.917Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:01:52.918Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4055,{"ONSince":"1505415529","OnFor":"34","TodayONTime":"3874","TodayConsumed":"16641356"}
+2017-09-14T19:12:59.467Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2735,{"ONSince":"1505332673","OnFor":"83704","TodayONTime":"43977","TodayConsumed":"74904430"}
+2017-09-14T19:13:00.116Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:13:00.612Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4035,{"ONSince":"1505416188","OnFor":"89","TodayONTime":"4030","TodayConsumed":"17920289"}
+2017-09-14T19:13:00.654Z uuid:Insight-1_0-231619K1200E30,Nespresso WeMo 2,8,0,{"ONSince":"1505407164","OnFor":"20","TodayONTime":"240","TodayConsumed":"1469694"}
+2017-09-14T19:13:01.693Z uuid:Insight-1_0-231619K1200D5B, HotWater WeMo 1,8,0,{"ONSince":"1505415133","OnFor":"101","TodayONTime":"1697","TodayConsumed":"19818214"}
+2017-09-14T19:13:01.947Z uuid:Insight-1_0-231619K1200D9A,Urn WeMo 4,1,2725,{"ONSince":"1505332673","OnFor":"83707","TodayONTime":"43980","TodayConsumed":"74904430"}
+2017-09-14T19:13:02.189Z uuid:Insight-1_0-231619K1200D9F,Mars WeMo 3,8,4045,{"ONSince":"1505416188","OnFor":"89","TodayONTime":"4030","TodayConsumed":"17920289"}

@@ -1,5 +1,6 @@
 
 // Mike is modified the Javascript file to read and write data from a Belkin Wemo Insight plug 
+// This file runs in NodeJS
 // Original file in: https://github.com/mimizone/wemo-client 
 // discovers Wemo Insight switches, listens to power information, writes data to local file 
 
@@ -49,7 +50,7 @@ function triggerDiscovery(){
         console.log("%s INFO discovered:%s,%s",new Date().toISOString(),deviceInfo.UDN,deviceInfo.friendlyName);
         // since the wemo is discovered, 
         try{
-          // Get the client for the found device
+          //  Get the client for the found device
           var client=wemo.client(deviceInfo);
 
           // get the wemo insightParams binaryState(on/off), instant power in milliwatts, aggregated data (object)
@@ -101,9 +102,8 @@ function writeToFile(ts,UDN,friendlyName,binaryState, instantPower, data){
 function checkWiFi(){
   wifiName().then(name => {
           console.log('');    
-          console.log('REMINDER: This app is looking for Belkin Wemos on:');
-          console.log(name);    //=> 'wu-tang lan' 
-          console.log('Your Belkin Wemos must be on this network or this app cannot find them.');
+          console.log('REMINDER: This app is looking for Belkin Wemos on your wifi network:  ' + name);
+          console.log('Your Wemos must be on ' + name + ' or this app cannot find them.');
           console.log('');     
         });
 } // end checkWiFi
